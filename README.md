@@ -1,1 +1,1 @@
-Udacity AI Product Manager Nanodegree Tasks and Assignments
+# Udacity AI Product Manager Nanodegree assignments
